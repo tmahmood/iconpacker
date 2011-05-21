@@ -1,0 +1,3 @@
+#!/bin/bash
+tar -cvvzf iconpacker.tar.gz AUTHORS ChangeLog COPYING iconpacker.py README data ui
+

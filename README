@@ -1,0 +1,34 @@
+Hi!
+
+This is the version 2 of Gnome Icon Packaging Utility. It have some mejor improvements.
+Its far far better version then previous version.
+ 
+
+1. No more of the ugly shell script :) everything have been moved to the Python base
+
+2. Now the tool will always follow the GNOME Icon themes standard.
+
+3. Adding new category [TODO:]
+
+4. Theme files are not saved as XML anymore. So you can guess version 1's themes are useless now.
+
+5. A file browser have been integrated (with image preview), so searching for icons is more easier
+
+6. Still working on a way to display progress when building the theme
+
+7. Image Resizing is done properly :p
+
+6. Only PNG files are supported now
+
+8. We are using /tmp folder to build theme
+
+9. Will also generate a tar.gz file for distribution of the theme
+
+ 
+mahmood.tarin@gmail.com
+
+No spam please
+
+
+Thats it for now, 
+thanks 
